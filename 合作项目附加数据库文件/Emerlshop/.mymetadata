@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Emerlshop"
+  id="myeclipse.1506517853605"
+  context-root="/Emerlshop"
+  j2ee-spec="5.0"
+  archive="Emerlshop.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
